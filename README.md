@@ -28,6 +28,8 @@ Of all the drug regimens only one drug had a potential outlier. Infubinol's has 
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Final%20Tumor%20Volume.png)
 
 ## Line 
+Created a line chart to display tumor volume vs. time point for a specific mouse treated with Capomulin. A list of mouse IDs are displayed, so that you can choose a mouse you want to look at. The following chart displays mouse ID: s710.
+
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Scatter%20Plot_Avg%20Tumor%20Volume%20vs.%20Mouse%20Weight.png)
 
 ## Scatter Plot
