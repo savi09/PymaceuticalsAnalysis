@@ -30,11 +30,14 @@ Of all the drug regimens only one drug had a potential outlier. Infubinol's has 
 ## Line 
 Created a line chart to display tumor volume vs. time point for a specific mouse treated with Capomulin. A list of mouse IDs are displayed, so that you can choose a mouse you want to look at. The following chart displays mouse ID: s710.
 
-![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Scatter%20Plot_Avg%20Tumor%20Volume%20vs.%20Mouse%20Weight.png)
-
-## Scatter Plot
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Tumor%20Volume%20over%20time%20for%20mouse%20of%20choice.png)
 
+## Scatter Plot
+Created a scatter plot to display the average tumor volume versus mouse weight for the Capomulin regimen.
+
+![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Scatter%20Plot_Avg%20Tumor%20Volume%20vs.%20Mouse%20Weight.png)
+
 ## Correlation and Regression
+This is the scatter plot displayed above but includes linear regression. In the Jupyter Notebook, it will also display the correlation coefficient.
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Correlation%20Linear%20Reg.png)
 
