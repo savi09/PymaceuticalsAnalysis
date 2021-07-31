@@ -1,22 +1,30 @@
 # PymaceuticalsAnalysis
-Using python and its libraries, Scipy.stats, Mumpy, Pandas and Matplotlib, to analyze data for Pymaceuticals's Capomulin animal study. Source to load image to readme file: https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
+Using python and its libraries, Scipy.stats, Mumpy, Pandas and Matplotlib, to analyze data for Pymaceuticals's Capomulin animal study. Some of the sources used, not for charts:
+    
+    * Source to load image to readme file: https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
+    * Source to pull list of duplicates:  https://stackoverflow.com/questions/14657241/how-do-i-get-a-list-of-all-the-duplicate-items-using-pandas-in-python
 
 ## Sumamry Table
-Creating a summary table of mean, median, variance, standard deviation, and standard error of mean of the tumor volume for each drug regimen. Drugs for treatment: Capomulin, Ceftamin, Infubinol, Ketapril, Naftisol, Placebo, Propiva, Ramicane, Stelasyn, and Zoniferol
+Created a summary table of mean, median, variance, standard deviation, and standard error of mean of the tumor volume for each drug regimen. Drugs for treatment: Capomulin, Ceftamin, Infubinol, Ketapril, Naftisol, Placebo, Propiva, Ramicane, Stelasyn, and Zoniferol
 
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/7f709c5792479447344288ec903d68c3eba29179/Charts/Drug%20Regimen_Summary%20Table%20(Screenshot).png)
 
 ## Bar Chart
-Creating a bar chart to display the number of mice in each drug regimen.
+Created a bar chart to display the number of mice in each drug regimen.
 
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Number%20of%20Mice%20Tested.png)
 
 ## Pie Chart
-Creating a pie chart to display the distribution of male and female mice in the study.
+Created a pie chart to display the distribution of male and female mice in the study.
 
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Mice%20Gender%20Distribution.png)
 
 ## Box Plot
+Of all the drug regimens only one drug had a potential outlier. Infubinol's has 1 potential outlier. Created a box and whisker plot of the final tumor volume for Campomulin, Zoniferol, Ketapril, and Propriva. For this I used the following sources:
+  
+    * To loop through two lists (used to print potential outliers): https://stackoverflow.com/questions/1663807/how-to-iterate-through-two-lists-in-parallel
+    * To convert from list to array for plotting: https://www.educative.io/edpresso/how-to-convert-a-list-to-an-array-in-python
+
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Final%20Tumor%20Volume.png)
 
 ## Line 
