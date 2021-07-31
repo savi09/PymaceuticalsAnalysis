@@ -39,5 +39,6 @@ Created a scatter plot to display the average tumor volume versus mouse weight f
 
 ## Correlation and Regression
 This is the scatter plot displayed above but includes linear regression. In the Jupyter Notebook, it will also display the correlation coefficient.
+
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Correlation%20Linear%20Reg.png)
 
